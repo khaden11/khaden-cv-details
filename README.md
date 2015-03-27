@@ -14,9 +14,9 @@ http://thegigisup.co.uk
 
 (Example images)
 
-![alt tag](https://raw.github.com/um10kh/khaden-cv-details/tree/master/App Example/Screenshot1.png)
-![alt tag](https://raw.github.com/um10kh/khaden-cv-details/tree/master/App Example/Screenshot2.png)
-![alt tag](https://raw.github.com/um10kh/khaden-cv-details/tree/master/App Example/Screenshot3.png)
+![alt tag](https://raw.github.com/um10kh/khaden-cv-details/App Example/Screenshot1.png)
+![alt tag](https://raw.github.com/um10kh/khaden-cv-details/App Example/Screenshot2.png)
+![alt tag](https://raw.github.com/um10kh/khaden-cv-details/App Example/Screenshot3.png)
 
 C elegans Project
 -----------------
