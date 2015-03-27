@@ -21,6 +21,11 @@ http://thegigisup.co.uk
 
 (Example images)
 
-![Alt text](https://github.com/um10kh/khaden-cv-details/blob/master/App%20Example/Screenshot1.png)
-![Alt text](https://github.com/um10kh/khaden-cv-details/blob/master/App%20Example/Screenshot2.png)
-![Alt text](https://github.com/um10kh/khaden-cv-details/blob/master/App%20Example/Screenshot3.png)
+![Alt text](https://github.com/um10kh/khaden-cv-details/blob/master/App%20Example/ImageMerge.png)
+
+Pygame Project
+---------------
+
+In January 2013, I developed a simple platforming game using Python (files found
+above), which has lead me to move onto the Unity editor and I am currently in
+the process of developing multiple trials for iOs/android games.
