@@ -7,9 +7,16 @@ App Development
 
 From January 2014, I have been part of a scrum team developing an app for 
 buying tickets for gigs/events. The current apk for the app is available to
-download and the link below is for the current (unfinished) website.
+download (from the App Example folder) and the link below is for the current 
+(unfinished) website.
 
 http://thegigisup.co.uk
+
+(Example images)
+
+![alt tag](https://raw.github.com/um10kh/khaden-cv-details/tree/master/App Example/Screenshot1.png)
+![alt tag](https://raw.github.com/um10kh/khaden-cv-details/tree/master/App Example/Screenshot2.png)
+![alt tag](https://raw.github.com/um10kh/khaden-cv-details/tree/master/App Example/Screenshot3.png)
 
 C elegans Project
 -----------------
