@@ -1,8 +1,6 @@
-## WormSim c elegans simulation engine from Boyle, Berri and Cohen 2012
+## WormSim C elegans simulation
 
 See Boyle, Berri and Cohen, [Gait modulation in C. elegans: an integrated neuromechanical model](http://www.frontiersin.org/Computational_Neuroscience/10.3389/fncom.2012.00010/abstract), Front. Comput. Neurosci., 2012.
-
-This file is based on the original readme.txt in the [Supplemental data](http://journal.frontiersin.org/Article/DownloadFile/48074/octet-stream/WormSim1.ZIP/9).
 
 ### Instructions for running "WormSim" software on a Linux system.
 
